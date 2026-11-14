@@ -1,0 +1,10 @@
+{
+  "name": "E-Tahfidz — Sistem Manajemen Pembelajaran & Penilaian Al-Qur'an",
+  "description": "Platform digital manajemen, penilaian per halaman/juz, pelaporan real-time, Smart Murojaah Scheduler, dan analisis AI perkembangan hafalan Al-Qur'an untuk Ustadz, Wali Santri, Santri, dan Admin.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
